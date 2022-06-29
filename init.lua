@@ -1,0 +1,1 @@
+require "hjkl-as-arrows"
